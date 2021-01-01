@@ -1,2 +1,2 @@
 # Python Projects
-Python Projects from different learning sources
+Python Projects from my experience in this learning journy
